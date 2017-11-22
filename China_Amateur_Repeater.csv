@@ -1,5 +1,5 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL
 0,,438.500000,,5.000000,,88.5,88.5,023,NN,FM,5.00,,,,,
-1,BR1,439.850000,split,430.560000,Tone,123.0,88.5,023,NN,FM,5.00,,Beijing Guangcai Club,,,
+1,BR1,439.850000,split,430.560000,Tone,123.0,123.0,023,NN,FM,5.00,,Beijing Guangcai Club,,,
 2,BR4MT,439.850000,-,5.000000,Tone,88.5,88.5,023,NN,FM,5.00,,Mt.Tai,,,
-3,BR6JA,439.400000,-,6.000000,Tone,118.8,88.5,023,NN,FM,5.00,,Zhengzhou Radio Association,,,
+3,BR6JA,439.400000,-,6.000000,Tone,118.8,118.8,023,NN,FM,5.00,,Zhengzhou Radio Association,,,
