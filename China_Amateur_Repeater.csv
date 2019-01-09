@@ -6,5 +6,5 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 4,BR1BJ,439.750000,-,5.000000,,88.5,88.5,023,NN,FM,5.00,,BRC C4FM,,,
 5,BR1BJ,438.450000,-,5.500000,Tone,88.5,88.5,023,NN,FM,5.00,,Beijing FM,,,
 6,BR4MT,439.850000,-,5.000000,Tone,88.5,88.5,023,NN,FM,5.00,,Mt.Tai,,,
-7,BR6JA,439.400000,-,6.000000,Tone,118.8,118.8,023,NN,FM,5.00,,Zhengzhou Radio Association,,,
+7,BR6JA,439.400000,split,432.400000,Tone,118.8,118.8,023,NN,FM,5.00,,Zhengzhou Radio Association,,,
 8,BR6KH,439.325000,split,431.325000,Tone,100.0,100.0,023,NN,FM,5.00,,Jiaozuo Henan,,,
